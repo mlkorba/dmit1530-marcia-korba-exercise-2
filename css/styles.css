@@ -1,0 +1,14 @@
+.container{
+    background-color: #ddd;
+    width: 100%;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+section{
+    border: solid 2px black;
+    background-color: #fff;
+}
